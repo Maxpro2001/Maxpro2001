@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maxpro2001
+- 👋 Hi, I’m @Adarsh
 - 👀 I’m interested in ... Music, cricket and books
-- 🌱 I’m currently learning ... Python and Java 
+- 🌱 I’m currently learning ... Python and Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@maxpro201
 
